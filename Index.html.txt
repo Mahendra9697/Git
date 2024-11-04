@@ -2,6 +2,5 @@
     <body>
 	<h1>This is index page</h1>
 	<h2>This is modified index page</h2>
-	<h3>This is modified index page1</h3>
     </body>
 <html>
